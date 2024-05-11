@@ -69,6 +69,7 @@ Greater Manchester Rock Climbing Group is a real group where I volunteer every S
 - The table below documents the reasons why each part of the criteria was used, or not, in the final website. The reason section shows how I judged each criteria to see if it was important and viable/feasible.
 
 | Goal Criteria | Reference | Importance Score | Viability/Feasibility Score | Reason |
+| :--- | :--- | :--- | :--- | :--- |
 | Create online presence | A | 5 | 5 | Easiest way to gather new members. |
 | Own Website | B | 5 | 5 | Better consolidation of existing online resources |
 | Show location/ map | C | 5 | 5 | Essential. |
@@ -83,6 +84,9 @@ Greater Manchester Rock Climbing Group is a real group where I volunteer every S
 | Images of location | L | 4 | 4 | Good idea to show what it looks like. |
 | Contact info | M | 3 | 2 | Not needed, form and links covers this |
 | Provide info on climbing shops | N | 2 | 3 | Not suited for the main goal |
+
+---
+
 
 
 
