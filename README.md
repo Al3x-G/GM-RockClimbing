@@ -32,17 +32,17 @@ Greater Manchester Rock Climbing Group is a real group where I volunteer every S
 
 #### Website Owner Goals
 
-- We want the website to attract new members and grab the attention of the user.
-- We want the website to be clear, easy to use, not have to much information and clearly show our goal.
-- We want all relevant links to existing external websites to be accessible on all pages of the website.
-- We want the website to be responsive on all devices.
+- The website should attract new members and grab the attention of the user.
+- Make the website clear, easy to use, not have to much information and clearly show the goal.
+- Ensure all relevant links to existing external websites are accessible on all pages of the website.
+- Also to make the website responsive on all devices.
 
 #### Website Visitor Goals
 
-- I want the site to be easy to navigate, with clear instructions on where to book.
-- I want the website to have clear instructions on where and when the group takes place.
-- I want to be able to see reviews of existing members.
-- I want to be able to see what the group offers.
+- The site to be easy to navigate, with clear instructions on where to book.
+- The site to have clear instructions on where and when the group takes place.
+- To be able to see reviews and images of existing members, also images of the location.
+- To be able to see what the group offers.
 
 ### Strategy Tradeoffs
 
