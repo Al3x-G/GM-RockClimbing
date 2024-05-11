@@ -20,6 +20,12 @@
     - [Strategy Assessment](#strategy-assessment)
     - [Strategy Graph](#strategy-graph)
     - [Strategy Reasons](#strategy-reasons)
+- [Design](#design)
+  - [Colour Scheme](#colour-scheme)
+  - [Typography](#typography)
+  - [Imagery](#imagery)
+  - [Wireframes](#wireframes)
+- [Greater Manchester Rock Climbing Group Page Preview](#greater-manchester-rock-climbing-group-page-preview)
   
 
 # About
@@ -87,7 +93,37 @@ Greater Manchester Rock Climbing Group is a real group where I volunteer every S
 
 ---
 
+# Design
 
+### Colour Scheme
+
+### Typography
+
+### Imagery
+
+### Wireframes
+
+[balsamiq](https://balsamiq.com/) was used to create wireframes for mobile, tablet and desktop views.
+
+#### Home Page
+
+<!-- insert home page wireframe image here -->
+
+#### Gallery Page
+
+<!-- insert gallery page wireframe image here -->
+
+#### Get in Touch Page
+
+<!-- insert get in touch page wireframe image here -->
+
+#### Get in Touch Page Completed Form Page
+
+<!-- insert get in touch completed form page wireframe image here -->
+
+# Greater Manchester Rock Climbing Group Page Preview
+
+<!-- insert responsive image of all views on mobile table desktop -->
 
 
 
