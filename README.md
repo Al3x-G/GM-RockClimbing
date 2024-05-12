@@ -26,7 +26,26 @@
   - [Imagery](#imagery)
   - [Wireframes](#wireframes)
 - [Greater Manchester Rock Climbing Group Page Preview](#greater-manchester-rock-climbing-group-page-preview)
-  
+  - [Features](#features)
+  - [The Home Page](#the-home-page)
+  - [The Gallery Page](#the-gallery-page)
+  - [The Get In Touch/Form Page](#the-get-in-touchform-page)
+  - [The Get In Touch/Form Page Complete Page](#the-get-in-touch-completeform-page-complete)
+- [Accessibility](#accessibility)
+- [Technologies Used](#technologies-used)
+  - [Languages Used](#languages-used)
+  - [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
+- [Deployment and Local Developement](#deployment-and-local-development)
+- [Testing](#testing)
+- [Bugs](#bugs)
+  - [Solved Bugs](#solved-bugs)
+  - [Known Bugs and Resolved Issues](#known-bugs-and-resolved-issues)
+- [Credits](#credits)
+  - [Code Used](#code-used)
+  - [Content](#content)
+  - [Media](#media)
+  - [Acknowledgments](#acknowledgments)
+
 
 # About
 
@@ -125,6 +144,137 @@ Greater Manchester Rock Climbing Group is a real group where I volunteer every S
 
 <!-- insert responsive image of all views on mobile table desktop -->
 
+### Features
 
+The website is comprised of 4 pages in total, a home page, a gallery page, a get in touch/form page and a get in touch/form complete page.
 
+All the pages are responsive and have the website logo at the top which also serves as a link back to the home page. <!-- insert logo here -->
 
+#### The Home Page
+
+<!-- insert full description of the home page and a screenshot -->
+
+#### The Gallery Page
+
+<!-- insert full description of the gallery page and a screenshot -->
+
+#### The Get In Touch/Form Page
+
+<!-- insert full description of the form page and a screenshot -->
+
+#### The Get In Touch Complete/Form Page Complete
+
+<!-- insert full description of the form-complete page and a screenshot -->
+
+### Accessibility
+
+<!-- insert proof of accessibility alt on image semantic html etc -->
+
+---
+
+## Technologies Used
+
+### Languages Used
+
+HTML and CSS
+
+### Frameworks, Libraries and Programs Used
+
+* [Balsamiq](https://balsamiq.com/) - Used to create wireframes.
+
+* [Git](https://git-scm.com/) - For version control.
+
+* [Github](https://github.com/) - To save and store the files for the website.
+
+* [VSCode](https://vscode.dev/) - IDE used to build the site.
+
+* [Google Fonts](https://fonts.google.com/) - To import the fonts used on the website.
+
+* [Bootstrap 5](https://www.bootstrapcdn.com/) - Used for Layout and responsive design.
+
+* [Font Awesome](https://www.bootstrapcdn.com/fontawesome/) - Used for icons.
+
+* [Google Developer Tools](https://developers.google.com/web/tools) - To troubleshoot and test features, solve issues with responsiveness and styling.
+
+* [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
+
+* [Web Disability Simulator](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla) - a google chrome extension that allows you to view your site as people with accessibility needs would see it.
+
+## Deployment and Local Development
+
+### Deployment
+
+The site is deployed using GitHub Pages - [Al3x-G/Gm-RockClimbing](https://github.com/Al3x-G/GM-RockClimbing).
+
+To Deploy the site using GitHub Pages:
+
+1. Login (or signup) to Github.
+2. Go to the repository for this project, [Al3x-G/Gm-RockClimbing](https://github.com/Al3x-G/GM-RockClimbing).
+3. Click the settings button.
+4. Select pages in the left-hand navigation menu.
+5. From the source dropdown select main branch and press save.
+6. The site has now been deployed, please note that this process may take a few minutes before the site goes live.
+
+### Local Development
+
+#### How to Fork
+
+To fork the repository:
+
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, [Al3x-G/Gm-RockClimbing](https://github.com/Al3x-G/GM-RockClimbing).
+3. Click the Fork button in the top right corner.
+
+#### How to Clone
+
+To clone the repository:
+
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, [Al3x-G/Gm-RockClimbing](https://github.com/Al3x-G/GM-RockClimbing).
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+
+- - -
+
+## Testing
+
+Please refer to [Testing.md](testing.md) file foe all testing results.
+
+## Bugs
+
+### Solved Bugs
+
+<!-- insert table of all solved bugs during website build -->
+
+### Known Bugs and Resolved Issues
+
+<!-- insert any known/solve bugs issues that occurred during build -->
+
+## Credits
+
+### Code Used
+
+* For the Google maps iframe I used the code from [google maps generator](https://maps-google.github.io/embed-google-map/), this was the most efficient way of incorporating  the map on the hotel home page.
+
+<!-- include any code used here in bullet points -->
+
+### Content
+
+All Information on the website is accurate at the time of the build (May 2024) and represents a real world meet up social group, which I attend and voluteer to run. This website will have further iterations in the future to become fit for purpose as a functional website. 
+
+### Media
+
+All the pictures through the pages of the website are owned and taken by me, with permission granted by the subjects in the images.
+
+### Acknowledgments
+
+I would like to take this opportunity acknowledge the following:
+
+* Code Institute - For all the incredible resources and lessons that have made this project possible, I have really enjoyed this process so far!
+
+* Newcastle College - For your efforts facilitating this course.
+
+* E Hammond - a fellow student that was recommended, on allowing me to learn how to structure a README.md file from her awesome repository [country hotel](https://github.com/e-h-dev/country-hotel/tree/main)
+
+* Kimberley Wolstenhulme - for her ongoing support and help decision making.
