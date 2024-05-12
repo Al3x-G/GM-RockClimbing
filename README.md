@@ -49,7 +49,7 @@
 
 # About
 
-Greater Manchester Rock Climbing Group is a real group where I volunteer every Sunday. Advertisement for the group has been a mix of [facebook page](#https://www.facebook.com/groups/1530175777232049/) and the [meetup app](#https://www.meetup.com/greater-manchester-rock-climbing/events/vndsltygchbzb/). I wanted to create a single website that links everthing together and is easily accessible.
+Greater Manchester Rock Climbing Group is a real group where I volunteer every Sunday. Advertisement for the group has been a mix of [facebook page](#https://www.facebook.com/groups/1530175777232049/) and the [meetup app](#https://www.meetup.com/greater-manchester-rock-climbing/events/vndsltygchbzb/). I wanted to create a single website that links everything together and is easily accessible.
 
 ## User Experience (UX)
 
