@@ -190,7 +190,7 @@ HTML and CSS
 
 * [Google Fonts](https://fonts.google.com/) - To import the fonts used on the website.
 
-* [Bootstrap 5](https://www.bootstrapcdn.com/) - Used for Layout and responsive design.
+* [Bootstrap 5](https://www.bootstrapcdn.com/) - Used for layout and responsive design.
 
 * [Font Awesome](https://www.bootstrapcdn.com/fontawesome/) - Used for icons.
 
@@ -239,7 +239,7 @@ To clone the repository:
 
 ## Testing
 
-Please refer to [Testing.md](testing.md) file foe all testing results.
+Please refer to [Testing.md](testing.md) file for all testing results.
 
 ## Bugs
 
@@ -255,7 +255,7 @@ Please refer to [Testing.md](testing.md) file foe all testing results.
 
 ### Code Used
 
-* For the Google maps iframe I used the code from [google maps generator](https://maps-google.github.io/embed-google-map/), this was the most efficient way of incorporating  the map on the hotel home page.
+* For the Google maps iframe I used the code from [google maps generator](https://maps-google.github.io/embed-google-map/), this was the most efficient way of incorporating the map on the home page.
 
 <!-- include any code used here in bullet points -->
 
