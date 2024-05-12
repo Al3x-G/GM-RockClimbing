@@ -107,19 +107,19 @@ Greater Manchester Rock Climbing Group is a real group where I volunteer every S
 
 #### Home Page
 
-<!-- insert home page wireframe image here -->
+![Home Page](assets/wireframe/home-page.png)
 
 #### Gallery Page
 
-<!-- insert gallery page wireframe image here -->
+![Gallery Page](assets/wireframe/gallery-page.png)
 
 #### Get in Touch Page
 
-<!-- insert get in touch page wireframe image here -->
+![Form Page](assets/wireframe/form-page.png)
 
 #### Get in Touch Page Completed Form Page
 
-<!-- insert get in touch completed form page wireframe image here -->
+![Form Complete Page](assets/wireframe/form-complete-page.png)
 
 # Greater Manchester Rock Climbing Group Page Preview
 
