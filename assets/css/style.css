@@ -1,0 +1,127 @@
+html {
+    margin: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #004225;
+    margin: 0;
+    padding: 0;
+}
+
+
+.callout-container {
+    height: 100vh;
+
+    background: url('../images/hero-image.png') no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.content-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+/*--------------------------------------------  Navbar */
+
+.navalert-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.navbar {
+    margin-bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 66, 37, 0.5);
+    border: 0;
+}
+
+.navbar .navbar-toggler {
+    border: 0;
+}
+
+.navbar .navbar-brand {
+    font-weight: bold;
+}
+
+.navbar .navbar-nav a {
+    font-weight: bold;
+}
+
+
+/*-------------------------------------------- Jumbotron */
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.jumbotron h1 {
+    color: white;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 35%;
+}
+
+.jumbotron h2 {
+    color: #a7a7a7;
+    margin: 25px 0;
+}
+
+
+.block-divider--green {
+    background-color: #004225;
+    width: 75px;
+    height: 5px;
+    border: 0;
+
+}
+
+/*-------------------------------------------- Middle section */
+
+.middle-section div {
+    color: white;
+    font-weight: bold;
+    margin: 5%;
+}
+
+.middle-section-background {
+    background-color: #004225;
+    width: 100%;
+}
+/*-------------------------------------------- Footer */
+
+.footer-background {
+    background-color: #004225;
+}
+
+.footer-nav li {
+    text-align: center;
+    display: inline-block;
+    margin: 5px;
+}
+
+.footer-nav a {
+    color: #a7a7a7;
+}
