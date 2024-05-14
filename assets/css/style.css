@@ -1,15 +1,13 @@
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: #004225;
-    margin: 0;
-    padding: 0;
 }
 
 /*--------------------------------------------  index callout */
 
 .callout-container {
     height: 100vh;
-    background: url('../images/hero-image.png') no-repeat fixed;
+    background: url('../images/hero-image.png') no-repeat center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
