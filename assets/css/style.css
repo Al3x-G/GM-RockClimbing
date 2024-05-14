@@ -3,14 +3,19 @@ body {
     background-color: #004225;
 }
 
+h4 {
+    color: white
+}
+
+p {
+    color: white;
+}
+
 /*--------------------------------------------  index callout */
 
 .callout-container {
     height: 100vh;
-    background: url('../images/hero-image.png') no-repeat center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    background: url('../images/hero-image.png') no-repeat center top fixed;
     background-size: cover;
     display: flex;
     align-items: center;
@@ -60,6 +65,10 @@ body {
 
 .navbar .navbar-nav a {
     font-weight: bold;
+}
+
+.bg-color {
+    background-color: #004225;
 }
 
 /*-------------------------------------------- Jumbotron */
@@ -116,3 +125,60 @@ body {
 .footer-nav a {
     color: #a7a7a7;
 }
+
+
+/*-------------------------------------------- Form */
+
+.form-section {
+    clear: left;
+    background: url('../images/get-in-touch.png') no-repeat right fixed;
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+.signup-form {
+    margin-top: 150px;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    padding: 30px;
+}
+
+.signup-form > h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+
+.text-input {
+    background: transparent;
+    color: #a7a7a7;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #a7a7a7;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border-color: white;
+}
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #004225;
+    color: white;
+    display: block;
+}
+
+.join-button:hover {
+    background-color: white;
+    color: #004225;
+}
+
