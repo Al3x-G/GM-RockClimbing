@@ -147,7 +147,7 @@ p {
     padding: 30px;
 }
 
-.signup-form > h2 {
+.signup-form>h2 {
     color: #fafafa;
     margin-bottom: 20px;
 }
@@ -182,3 +182,27 @@ p {
     color: #004225;
 }
 
+
+/*-------------------------------------------- Form complete */
+
+.form-complete-section {
+    clear: left;
+    background: url('../images/form-complete.png') no-repeat right fixed;
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+.complete {
+    margin: 250px 10px 0px;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 400px;
+    position: absolute;
+    padding: 30px;
+}
+
+.complete > h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
