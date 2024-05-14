@@ -1,7 +1,3 @@
-html {
-    margin: 0;
-}
-
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: #004225;
@@ -9,20 +5,18 @@ body {
     padding: 0;
 }
 
+/*--------------------------------------------  index callout */
 
 .callout-container {
     height: 100vh;
-
-    background: url('../images/hero-image.png') no-repeat bottom right fixed;
+    background: url('../images/hero-image.png') no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
     display: flex;
     align-items: center;
     justify-content: center;
-
     position: relative;
 }
 
@@ -70,7 +64,6 @@ body {
     font-weight: bold;
 }
 
-
 /*-------------------------------------------- Jumbotron */
 
 .jumbotron {
@@ -88,7 +81,6 @@ body {
     color: #a7a7a7;
     margin: 25px 0;
 }
-
 
 .block-divider--green {
     background-color: #004225;
@@ -110,6 +102,7 @@ body {
     background-color: #004225;
     width: 100%;
 }
+
 /*-------------------------------------------- Footer */
 
 .footer-background {
