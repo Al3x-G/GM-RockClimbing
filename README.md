@@ -2,7 +2,7 @@
 
 # Greater Manchester Rock Climbing Group
 
-<!-- Insert logo main here with link to location assets -->
+![Greater Manchester Rock Climbing Group](assets/images/gmrc-logo.png)
 
 ## Content list
 
@@ -58,7 +58,7 @@ Greater Manchester Rock Climbing Group is a real group where I volunteer every S
 #### Website Owner Goals
 
 - The website should attract new members and grab the attention of the user.
-- Make the website clear, easy to use, not have to much information and clearly show the goal.
+- Make the website easy to use, clearly show the goal with not too much information.
 - Ensure all relevant links to existing external websites are accessible on all pages of the website.
 - Also to make the website responsive on all devices.
 
@@ -72,8 +72,8 @@ Greater Manchester Rock Climbing Group is a real group where I volunteer every S
 ### Strategy Tradeoffs
 
 #### Strategy Criteria
- - To decide what features the website should have for it's users. I created a [table](#strategy-table) and listed 14 main criteria. Then following UX strategy I came up with a solution on which were most important and which could be traded off.
- - The strategy used was to give each of the criteria a score, the first being importance, how crucial is this for the user? The second being viability/feasibility, how realistic is it that we implement this for the user? 
+ - To decide what features the website should have for its users. I created a [table](#strategy-table) and listed 14 main criteria. Then following UX strategy I came up with a solution on what were the most important and which could be traded off.
+ - The strategy used was to give each of the criteria a score; the first being importance; how crucial is this for the user? The second being viability/feasibility, how realistic is it that we implement this for the user? 
  - The following table shows the results of this strategy.
 
 #### Strategy Table
@@ -83,7 +83,7 @@ Greater Manchester Rock Climbing Group is a real group where I volunteer every S
 #### Strategy Assessment 
 
 - When creating the table, I first tallied the two criteria requirements, then added the totals to calculate the average score. As seen in the table the average was 7.71.
-- The next stage was to plot these results in a colour coded strategy graph. Red being the most relevant and green being the least. All criteria that was above the average score can been deemed most relavant to be included in the website.
+- The next stage was to plot these results in a colour coded strategy graph. Red being the most relevant and green being the least. All criteria that were above the average score can be deemed most relevant to be included in the website.
 
 #### Strategy Graph
 
@@ -116,9 +116,27 @@ Greater Manchester Rock Climbing Group is a real group where I volunteer every S
 
 ### Colour Scheme
 
+For the main logo design [Logoai](https://www.logoai.com/) was used, this gave me an idea to keep the colour scheme simple. Using mainly greens and whites, as I knew that I wanted to add plenty of photos, which themselves could bring colour. 
+
+- '#004225' was the green used throughout.
+- 'rgba(0, 66, 37, 0.5)' this was used to provide the same green, but with the option to change the opacity.
+- 'White' for text to stand out against backgrounds.
+- '#a7a7a7' a slightly grey white for smaller headings and used in the form to offset the white.
+- 'Red' was used to style the links to stand out more. 
+
+![Greater Manchester Rock Climbing Group Colour Scheme](assets/images/GMRC-Color.png)
+
 ### Typography
 
+The font used in this website was Montserrat, with a back up of sans serif. I used a single font as I felt this suited the desired aesthetic of a more relaxed and informal atmosphere. I wanted to avoid the use of a rigid font, so visitors to the site could sense the desired attitude of the social group it was advertising.
+
+The Font was imported from google fonts [Montserrat](https://fonts.google.com/specimen/Montserrat). It is used via the import link at the head of the [stylesheet](assets/css/style.css), this links all the text across the pages of the website to the appropriate style.
+
 ### Imagery
+
+All imagery was taken by me and uploaded. I used [Paint 3D](https://apps.microsoft.com/detail/9nblggh5fv99?rtc=1&hl=en-gb&gl=GB) to change from .jpeg to .png and to crop sizes to suit.
+
+I also used [Collage Maker](https://play.google.com/store/apps/details?id=photoeditor.layout.collagemaker&hl=en&gl=US&pli=1) for the collage image on the gallery page.
 
 ### Wireframes
 
@@ -148,27 +166,46 @@ Greater Manchester Rock Climbing Group is a real group where I volunteer every S
 
 The website is comprised of 4 pages in total, a home page, a gallery page, a get in touch/form page and a get in touch/form complete page.
 
-All the pages are responsive and have the website logo at the top which also serves as a link back to the home page. <!-- insert logo here -->
+All the pages are responsive and have the website logo at the top which also serves as a link back to the home page. 
+
+![Greater Manchester Rock Climbing Group](assets/images/gmrc-logo.png)
+
 
 #### The Home Page
 
-<!-- insert full description of the home page and a screenshot -->
+The Home Page shows a background image of the gym where the group meets, this is important to show as it instantly grabs the user's attention. The image has writing over the top to explain exactly what the website is about with a smaller heading of a fun catchphrase. The header shows the main logo and links to other pages. On mobile this menu becomes a dropdown.
+![homepage-1](assets/images/Hompage-1.png)
+
+Also on the hompage is a picture and short explanation from one of the lead organisers. This includes a handy link to the groups MeetUp page. Below this is a google maps location where the group meets. The footer contains links to the groups social pages both Facebook and MeetUp.
+![homepage-2](assets/images/Hompage-2.png)
 
 #### The Gallery Page
 
-<!-- insert full description of the gallery page and a screenshot -->
+The Gallery page shows a collage of all areas of the gym, this shows the user and potential group memeber exactly what to expect. The header shows the main logo (which links back to the home page) and links to other pages. On mobile this menu becomes a dropdown.
+![gallery-1](assets/images/Gallery-1.png)
+
+Also on the homepage is group member quotes and images. The footer contains links to the groups social pages both Facebook and MeetUp.
+![gallery-2](assets/images/Gallery-2.png)
 
 #### The Get In Touch/Form Page
 
-<!-- insert full description of the form page and a screenshot -->
+The Get in touch page shows a full background image of group members. I felt this was important as the user of the website at this stage would want to speak to a real person, the people on this image will actually be the people responding. It also contains a simple input form that reacts when a user clicks or hovers over it. The header shows the main logo (which links back to the home page) and links to other pages. On mobile this menu becomes a dropdown. The footer contains links to the groups social pages both Facebook and MeetUp.
+![form-scrsht](assets/images/form-scrsht.png)
 
 #### The Get In Touch Complete/Form Page Complete
 
-<!-- insert full description of the form-complete page and a screenshot -->
+The get in touch page appers after the user clicks the submit button on the get in touch page. Styled the same but with a different image of a climber 'reaching out' a fun play on words to match the intention of the overall site. This also includes a confirmation that the users form will be responded to including handy links to the social pages of the group. The footer contains links to the groups social pages both Facebook and MeetUp.
+![form-complete-scrsht](assets/images/form-complete--scrsht.png)
 
 ### Accessibility
 
-<!-- insert proof of accessibility alt on image semantic html etc -->
+I have been mindful during coding to ensure that the website is as accessible friendly as possible. This has been have achieved by:
+
+* Using a hover state on all buttons on the site to make it clear to the user if they are hovering over a button.
+* Choosing a sans serif font back up for the site - these fonts are suitable for people with dyslexia.
+* Ensuring that there is a sufficient colour contrast throughout the site.
+
+- - -
 
 ---
 
@@ -249,15 +286,23 @@ Please refer to [Testing.md](testing.md) file for all testing results.
 
 ### Known Bugs and Resolved Issues
 
-<!-- insert any known/solve bugs issues that occurred during build -->
-
+| No | Bug | How I fixed the bug |
+| :--- | :--- | :--- |
+| 1 | The Hero image on the pages didn't look right on mobile view. | after using chrome dvelopers tools and researchng the problem. I am came across the position image could be centered and fixed, this fixed the design issue. |
+| 2 | Changing the footer text colour was'nt working | I first tried to chage the colour by using the .footer nav this did'nt work. This was solved by adding an extra .footer nav a style in the css file. |
+| 3 | The dropdown menu in the header on the gallery page in mobile view | Using chrome developers tools and [W3](https://www.w3schools.com/), I fixed a design issue by changing the background colour navbar drop  |
+| 4 | Typo Issues | Alot of issues where solved simply by re checking my code for typos.  |
+| 5 | Gallery Quotes | I was struggling to insert images and text to make them look like they were a part of each other. To solve this I found code on [W3 Media Objects](https://www.w3schools.com/bootstrap4/bootstrap_media_objects.asp) to help resolve this issue  |
+| 6 | Font awesome not showing icons | I was using the wrong CDN at the top of my page. So i went onto [Stackoverflow](https://stackoverflow.com/search?q=font+awesome+cdn) and found a better link |
 ## Credits
 
 ### Code Used
 
 * For the Google maps iframe I used the code from [google maps generator](https://maps-google.github.io/embed-google-map/), this was the most efficient way of incorporating the map on the home page.
 
-<!-- include any code used here in bullet points -->
+* W3 schools code for the pictures and quotes [W3 Media Objects](https://www.w3schools.com/bootstrap4/bootstrap_media_objects.asp)
+
+* Inspiration and skeleton code was used from previous lesson taught by code institute. I am unable to link to this as it is protected content. The code was used from the Whiskey website projects and Love running. I have coded these both in my repositries as a pratice [Github - Al3x-G] (https://github.com/Al3x-G)
 
 ### Content
 

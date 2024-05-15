@@ -11,6 +11,24 @@ p {
     color: white;
 }
 
+a:link {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #a7a7a7;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
 /*--------------------------------------------  index callout */
 
 .callout-container {
@@ -139,7 +157,7 @@ p {
 
 .signup-form {
     margin-top: 150px;
-    color: #fff;
+    color: white;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
     position: absolute;
@@ -148,7 +166,7 @@ p {
 }
 
 .signup-form>h2 {
-    color: #fafafa;
+    color: white;
     margin-bottom: 20px;
 }
 
@@ -195,14 +213,9 @@ p {
 
 .complete {
     margin: 250px 10px 0px;
-    color: #fff;
+    color: white;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
     position: absolute;
     padding: 30px;
-}
-
-.complete > h2 {
-    color: #fafafa;
-    margin-bottom: 20px;
 }
