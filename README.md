@@ -294,6 +294,9 @@ Please refer to [Testing.md](testing.md) file for all testing results.
 | 4 | Typo Issues | Alot of issues where solved simply by re checking my code for typos.  |
 | 5 | Gallery Quotes | I was struggling to insert images and text to make them look like they were a part of each other. To solve this I found code on [W3 Media Objects](https://www.w3schools.com/bootstrap4/bootstrap_media_objects.asp) to help resolve this issue  |
 | 6 | Font awesome not showing icons | I was using the wrong CDN at the top of my page. So i went onto [Stackoverflow](https://stackoverflow.com/search?q=font+awesome+cdn) and found a better link |
+| 7 | Creating space in text | I wanted to find a way to create space betwwen text without just pressing spacebar. I found a solution on [WikiHow](https://www.wikihow.com/Insert-Spaces-in-HTML#:~:text=Type%20where%20you%20want,there%20are%20instances%20of%20.) |
+
+
 ## Credits
 
 ### Code Used
@@ -322,4 +325,4 @@ I would like to take this opportunity acknowledge the following:
 
 * E Hammond - a fellow student that was recommended, on allowing me to learn how to structure a README.md file from her awesome repository [country hotel](https://github.com/e-h-dev/country-hotel/tree/main)
 
-* Kimberley Wolstenhulme - for her ongoing support and help decision making.
+* Kimberley Wolstenhulme - for her ongoing support and help with decision making.
