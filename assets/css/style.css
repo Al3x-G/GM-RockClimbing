@@ -135,6 +135,10 @@ a:hover {
     padding: 5px;
 }
 
+#profile-photos {
+    display: grid;
+    justify-content: center;
+}
 /*-------------------------------------------- Footer */
 
 .footer-background {
