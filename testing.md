@@ -148,3 +148,21 @@ For each of the user goals, I have assigned with a reference from A - I. Each go
 
 ---
 
+### Full Testing
+
+Full testing was performed on a range of devices:
+
+* A desktop
+* Laptops and chromebooks.
+* Android tablet.
+* Android Mobile Devices.
+
+
+The website was tested on the following browsers with no issues:
+
+* Google Chrome
+* Microsoft Edge
+* Firefox
+* Opra
+
+Additional testing was taken by friends,family and members of the climbing group on a variety of devices and screen sizes. They reported no issues when browsing and actually liked the site!
