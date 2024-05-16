@@ -135,7 +135,7 @@ a:hover {
     padding: 5px;
 }
 
-#profile-photos {
+.profile-photos {
     display: grid;
     justify-content: center;
 }
