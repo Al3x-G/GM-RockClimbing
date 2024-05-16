@@ -86,7 +86,7 @@ I have tested all the website pages with lighthouse using the chrome developer t
 
 ### Testing User Stories
 
-For each of the user goals, I have assigned with a reference from A - I. Each goal is supported below with a screenshot or gif of the website, proving the goal was accomplished.
+For each of the user goals, I have assigned with a reference from A - I. Each goal is supported below with a screenshot of the website, proving the goal was accomplished.
 
 #### Hotel Owners Goals.
 
@@ -165,4 +165,4 @@ The website was tested on the following browsers with no issues:
 * Firefox
 * Opra
 
-Additional testing was taken by friends,family and members of the climbing group on a variety of devices and screen sizes. They reported no issues when browsing and actually liked the site!
+Additional testing was taken by friends, family and members of the climbing group on a variety of devices and screen sizes. They reported no issues when browsing and actually liked the site!
