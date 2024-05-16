@@ -11,14 +11,8 @@ p {
     color: white;
 }
 
-a:link {
+a, a:link, a:visited {
     color: red;
-    background-color: transparent;
-    text-decoration: none;
-}
-
-a:visited {
-    color: #a7a7a7;
     background-color: transparent;
     text-decoration: none;
 }
