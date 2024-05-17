@@ -88,7 +88,7 @@ I have tested all the website pages with lighthouse using the chrome developer t
 
 For each of the user goals, I have assigned with a reference from A - I. Each goal is supported below with a screenshot of the website, proving the goal was accomplished.
 
-#### Hotel Owners Goals.
+#### Website Owner Goals.
 
 | REF | Goals | How are they achieved? |
 | :--- | :--- | :--- |
@@ -166,3 +166,59 @@ The website was tested on the following browsers with no issues:
 * Opra
 
 Additional testing was taken by friends, family and members of the climbing group on a variety of devices and screen sizes. They reported no issues when browsing and actually liked the site!
+
+
+Home Page
+
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| The logo in the header | Link directs the user back to the home page | Clicked title | Home page reloads | Pass |
+| Nav Bar | Hovering cursor over each link it changes to light colour. | Hovered over links | Colour of links changed | Pass |
+| Home link | Link directs the user back to the home page | Clicked link | Home page reloads | Pass |
+| Gallery link | Link directs the user to gallery page | Clicked link | Gallery page loads | Pass |
+| Get in Touch link | Link directs the user to get in touch page | Clicked link | get in touch page loads | Pass |
+| Nav bar Dropdown | On smaller screens the nav bar should compress to a burger icon and dropdown when clicked to show the links | Clicked Icon | works on page | Pass |
+| Google map | Map should show location and should be interactive | Map shows correct location, map zooms in and out can change map type view and can move the map | Pass |
+| Social links | Should open new tab to the groups social pages on Facebook and meetup | Click on icon | New tab opens with groups page of selected social media. | Pass |
+
+
+ Gallery Page
+
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| The logo in the header | Link directs the user back to the home page | Clicked title | Home page reloads | Pass |
+| Nav Bar | Hovering cursor over each link it changes to light colour. | Hovered over links | Colour of links changed | Pass |
+| Home link | Link directs the user back to the home page | Clicked link | Home page reloads | Pass |
+| Gallery link | Link directs the user to gallery page | Clicked link | Gallery page loads | Pass |
+| Get in Touch link | Link directs the user to get in touch page | Clicked link | get in touch page loads | Pass |
+| Nav bar Dropdown | On smaller screens the nav bar should compress to a burger icon and dropdown when clicked to show the links | Clicked Icon | works on page | Pass |
+| Social links | Should open new tab to the groups social pages on Facebook and meetup | Click on icon | New tab opens with groups page of selected social media. | Pass |
+
+
+Get in touch Page
+
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| The logo in the header | Link directs the user back to the home page | Clicked title | Home page reloads | Pass |
+| Nav Bar | Hovering cursor over each link it changes to light colour. | Hovered over links | Colour of links changed | Pass |
+| Home link | Link directs the user back to the home page | Clicked link | Home page reloads | Pass |
+| Gallery link | Link directs the user to gallery page | Clicked link | Gallery page loads | Pass |
+| Get in Touch link | Link directs the user to get in touch page | Clicked link | get in touch page loads | Pass |
+| Nav bar Dropdown | On smaller screens the nav bar should compress to a burger icon and dropdown when clicked to show the links | Clicked Icon | works on page | Pass |
+| Social links | Should open new tab to the groups social pages on Facebook and meetup | Click on icon | New tab opens with groups page of selected social media. | Pass |
+| Form Input hover | Should change to a lighter colour when hovering over the input fields and button | Hovered with mouse | Desired effect was achieved | Pass |
+| Form Input Name and Email | Should change to lighter background colour when filled in and only allow name and email | completed form using correct details | Desired outcome was achieved | Pass |
+| Form Input Name and Email | Should not be allowed to use submit button with empty fields | pressed submit button and a prompt appeared asking for the fields to be filled in | Desired outcome was achieved | Pass |
+
+
+Form completed Page
+
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| The logo in the header | Link directs the user back to the home page | Clicked title | Home page reloads | Pass |
+| Nav Bar | Hovering cursor over each link it changes to light colour. | Hovered over links | Colour of links changed | Pass |
+| Home link | Link directs the user back to the home page | Clicked link | Home page reloads | Pass |
+| Gallery link | Link directs the user to gallery page | Clicked link | Gallery page loads | Pass |
+| Get in Touch link | Link directs the user to get in touch page | Clicked link | get in touch page loads | Pass |
+| Nav bar Dropdown | On smaller screens the nav bar should compress to a burger icon and dropdown when clicked to show the links | Clicked Icon | works on page | Pass |
+| Social links | Should open new tab to the groups social pages on Facebook and meetup | Click on icon | New tab opens with groups page of selected social media. | Pass |
