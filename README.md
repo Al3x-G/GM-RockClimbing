@@ -323,6 +323,6 @@ I would like to take this opportunity acknowledge the following:
 
 * Newcastle College - For your efforts facilitating this course.
 
-* E Hammond - a fellow student that was recommended, on allowing me to learn how to structure a README.md file from her awesome repository [country hotel](https://github.com/e-h-dev/country-hotel/tree/main)
+* E Hammond - a fellow student that was recommended, on allowing me to learn how to structure a markdown file from her awesome repository [country hotel](https://github.com/e-h-dev/country-hotel/tree/main)
 
 * Kimberley Wolstenhulme - for her ongoing support and help with decision making.
