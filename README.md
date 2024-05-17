@@ -44,12 +44,12 @@
   - [Code Used](#code-used)
   - [Content](#content)
   - [Media](#media)
-  - [Acknowledgments](#acknowledgments)
+  - [Acknowledgements](#acknowledgements)
 
 
 # About
 
-Greater Manchester Rock Climbing Group is a real group where I volunteer every Sunday. Advertisement for the group has been a mix of [facebook page](#https://www.facebook.com/groups/1530175777232049/) and the [meetup app](#https://www.meetup.com/greater-manchester-rock-climbing/events/vndsltygchbzb/). I wanted to create a single website that links everything together and is easily accessible.
+Greater Manchester Rock Climbing Group is a real group, where I volunteer every Sunday. Advertisement for the group has been a mix of [facebook page](#https://www.facebook.com/groups/1530175777232049/) and the [meetup app](#https://www.meetup.com/greater-manchester-rock-climbing/events/vndsltygchbzb/). I wanted to create a single website that links everything together and is easily accessible.
 
 ## User Experience (UX)
 
@@ -72,7 +72,7 @@ Greater Manchester Rock Climbing Group is a real group where I volunteer every S
 ### Strategy Tradeoffs
 
 #### Strategy Criteria
- - To decide what features the website should have for its users. I created a [table](#strategy-table) and listed 14 main criteria. Then following UX strategy I came up with a solution on what were the most important and which could be traded off.
+ - To decide what features the website should have for its users. I created a [table](#strategy-table) and listed 14 main criteria. Then following UX strategy, I came up with a solution on what were the most important and which could be traded off.
  - The strategy used was to give each of the criteria a score; the first being importance; how crucial is this for the user? The second being viability/feasibility, how realistic is it that we implement this for the user? 
  - The following table shows the results of this strategy.
 
@@ -82,8 +82,8 @@ Greater Manchester Rock Climbing Group is a real group where I volunteer every S
 
 #### Strategy Assessment 
 
-- When creating the table, I first tallied the two criteria requirements, then added the totals to calculate the average score. As seen in the table the average was 7.71.
-- The next stage was to plot these results in a colour coded strategy graph. Red being the most relevant and green being the least. All criteria that were above the average score can be deemed most relevant to be included in the website.
+- When creating the table, I first tallied the two criteria requirements, then added the totals to calculate the average score. As seen in the table above the average was 7.71.
+- The next stage was to plot these results in a colour coded [strategy graph](#strategy-graph). Red being the most relevant and green being the least. All criteria that were above the average score can be deemed most relevant to be included in the website.
 
 #### Strategy Graph
 
@@ -174,10 +174,11 @@ All the pages are responsive and have the website logo at the top which also ser
 #### The Home Page
 
 The Home Page shows a background image of the gym where the group meets, this is important to show as it instantly grabs the user's attention. The image has writing over the top to explain exactly what the website is about with a smaller heading of a fun catchphrase. The header shows the main logo and links to other pages. On mobile this menu becomes a dropdown.
-![homepage-1](assets/images/Hompage-1.png)
+![homepage-1](assets/images/home-scrsht1.png)
 
 Also on the hompage is a picture and short explanation from one of the lead organisers. This includes a handy link to the groups MeetUp page. Below this is a google maps location where the group meets. The footer contains links to the groups social pages both Facebook and MeetUp.
-![homepage-2](assets/images/Hompage-2.png)
+![homepage-2](assets/images/home-scrsht2.png)
+![homepage-3](assets/images/home-scrsht3.png)
 
 #### The Gallery Page
 
@@ -185,17 +186,18 @@ The Gallery page shows a collage of all areas of the gym, this shows the user an
 ![gallery-1](assets/images/Gallery-1.png)
 
 Also on the homepage is group member quotes and images. The footer contains links to the groups social pages both Facebook and MeetUp.
-![gallery-2](assets/images/Gallery-2.png)
+![gallery-2](assets/images/gallery-scrsht2.png)
+![gallery-3](assets/images/gallery-scrsht3.png)
 
 #### The Get In Touch/Form Page
 
 The Get in touch page shows a full background image of group members. I felt this was important as the user of the website at this stage would want to speak to a real person, the people on this image will actually be the people responding. It also contains a simple input form that reacts when a user clicks or hovers over it. The header shows the main logo (which links back to the home page) and links to other pages. On mobile this menu becomes a dropdown. The footer contains links to the groups social pages both Facebook and MeetUp.
-![form-scrsht](assets/images/form-scrsht.png)
+![form-scrsht](assets/images/form-scrsht1.png)
 
 #### The Get In Touch Complete/Form Page Complete
 
 The get in touch page appers after the user clicks the submit button on the get in touch page. Styled the same but with a different image of a climber 'reaching out' a fun play on words to match the intention of the overall site. This also includes a confirmation that the users form will be responded to including handy links to the social pages of the group. The footer contains links to the groups social pages both Facebook and MeetUp.
-![form-complete-scrsht](assets/images/form-complete--scrsht.png)
+![form-complete-scrsht](assets/images/form-complete-scrsht.png)
 
 ### Accessibility
 
@@ -204,8 +206,7 @@ I have been mindful during coding to ensure that the website is as accessible fr
 * Using a hover state on all buttons on the site to make it clear to the user if they are hovering over a button.
 * Choosing a sans serif font back up for the site - these fonts are suitable for people with dyslexia.
 * Ensuring that there is a sufficient colour contrast throughout the site.
-
-- - -
+* Also adding alt values for pictures for the benefit of screen readers.
 
 ---
 
@@ -315,7 +316,7 @@ All Information on the website is accurate at the time of the build (May 2024) a
 
 All the pictures through the pages of the website are owned and taken by me, with permission granted by the subjects in the images.
 
-### Acknowledgments
+### Acknowledgements
 
 I would like to take this opportunity acknowledge the following:
 
@@ -326,3 +327,5 @@ I would like to take this opportunity acknowledge the following:
 * E Hammond - a fellow student that was recommended, on allowing me to learn how to structure a markdown file from her awesome repository [country hotel](https://github.com/e-h-dev/country-hotel/tree/main)
 
 * Kimberley Wolstenhulme - for her ongoing support and help with decision making.
+
+* Rockover climbing gym - for allowing us to run our groups for years, Thank you!
