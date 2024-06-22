@@ -182,12 +182,13 @@ Also on the hompage is a picture and short explanation from one of the lead orga
 
 #### The Gallery Page
 
-The Gallery page shows a collage of all areas of the gym, this shows the user and potential group memeber exactly what to expect. The header shows the main logo (which links back to the home page) and links to other pages. On mobile this menu becomes a dropdown.
+The Gallery page shows a collage of all areas of the gym, this shows the user and potential group memeber exactly what to expect, including a helpful video showing what bouldering is all about. The header shows the main logo (which links back to the home page) and links to other pages. On mobile this menu becomes a dropdown.
 ![gallery-1](assets/images/Gallery-1.png)
 
 Also on the homepage is group member quotes and images. The footer contains links to the groups social pages both Facebook and MeetUp.
 ![gallery-2](assets/images/gallery-scrsht2.png)
 ![gallery-3](assets/images/gallery-scrsht3.png)
+![gallery-4](assets/images/gallery-scrsht4.png)
 
 #### The Get In Touch/Form Page
 
@@ -315,6 +316,8 @@ All Information on the website is accurate at the time of the build (May 2024) a
 ### Media
 
 All the pictures through the pages of the website are owned and taken by me, with permission granted by the subjects in the images.
+
+Video used on the gallery page is linked to the public domain website 'YouTube'. 
 
 ### Acknowledgements
 
